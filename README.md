@@ -1,2 +1,2 @@
-# gstheme
-biba
+# gamesense based theme
+biba boba aboba.
