@@ -6,7 +6,7 @@
  * @socials vk: vk.com/sh1tp
 */
 
-@import url('@import url('https://fonts.googleapis.com/css2?family=Rubik');
+@import url('@import url('https://fonts.googleapis.com/css?family=Rubik');
 @import url(https://codedotspectra.github.io/themes/mini-themes/settingsIcons.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
 :root{
